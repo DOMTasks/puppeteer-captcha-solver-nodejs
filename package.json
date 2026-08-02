@@ -1,0 +1,51 @@
+{
+  "name": "puppeteer-captcha",
+  "version": "1.0.0",
+  "description": "Puppeteer CAPTCHA solver SDK for Node.js supporting text CAPTCHA and reCAPTCHA v2 with DeathByCaptcha.",
+  "keywords": [
+    "puppeteer",
+    "puppeteer captcha",
+    "puppeteer captcha solver",
+    "captcha",
+    "text captcha",
+    "recaptcha",
+    "browser automation",
+    "automation",
+    "typescript",
+    "node",
+    "rpa",
+    "web automation",
+    "puppeteer sdk",
+    "death by captcha"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf dist",
+    "prepare": "npm run build"
+  },
+  "author": "DOM Tasks",
+    "homepage": "https://github.com/domtasks/puppeteer-captcha-solver-nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domtasks/puppeteer-captcha-solver-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/domtasks/puppeteer-captcha-solver-nodejs/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "puppeteer": "^25.3.0"
+  }
+}
