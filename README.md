@@ -29,10 +29,10 @@ await solver.solve({
     <td width="48%">
       <h4>Automate Image CAPTCHAs in seconds with puppeteer-captcha</h4>
       <a href="https://www.youtube.com/watch?v=5aHVrQcuPZQ" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3c87b59d-e8e8-4ab4-a8e3-a0a3b0a04073" alt="Image CAPTCHA automation demo with puppeteer-captcha">
+        <img src="https://github.com/user-attachments/assets/fd6d8395-3e2f-4576-a1ca-3400468a559b" alt="Image CAPTCHA automation demo with puppeteer-captcha">
       </a>
     </td>
-    <td width="4%">-or-</td>
+    <td width="4%"></td>
     <td width="48%">
       <h4>Automate reCaptcha in seconds with puppeteer-captcha</h4>
       <a href="https://www.youtube.com/watch?v=u-Eomx0o7bg" target="_blank">
