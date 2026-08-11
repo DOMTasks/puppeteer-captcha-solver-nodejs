@@ -21,6 +21,28 @@ await solver.solve({
 ✔ **No** manual retry logic
 
 
+---
+### 🎥 See it in action
+
+<table>
+  <tr>
+    <td width="48%">
+      <h4>Automate Image CAPTCHAs in seconds with puppeteer-captcha</h4>
+      <a href="https://www.youtube.com/watch?v=5aHVrQcuPZQ" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3c87b59d-e8e8-4ab4-a8e3-a0a3b0a04073" alt="Image CAPTCHA automation demo with puppeteer-captcha">
+      </a>
+    </td>
+    <td width="4%">-or-</td>
+    <td width="48%">
+      <h4>Automate reCaptcha in seconds with puppeteer-captcha</h4>
+      <a href="https://www.youtube.com/watch?v=u-Eomx0o7bg" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6907be35-fd5e-4feb-8dfc-2d32ede34801" alt="ReCAPTCHA v2 automation demo with puppeteer-captcha">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ⭐ **If this project helped you, please consider starring the repository.**
 
 
